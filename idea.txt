@@ -5,6 +5,6 @@ System.out.println("·¢ËÍsuccess")
 }
 ")
 
-commit
+yes or no
 init
 rollback
