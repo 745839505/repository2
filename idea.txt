@@ -8,3 +8,6 @@ System.out.println("·¢ËÍsuccess")
 yes or no
 init
 rollback
+
+what fuck
+youself my colers
