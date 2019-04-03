@@ -1,1 +1,6 @@
 你好吗同学，这个代码是我将要同步到版本库的东西
+System.out.int("
+if(flag){
+System.out.println("发送success")
+}
+")
