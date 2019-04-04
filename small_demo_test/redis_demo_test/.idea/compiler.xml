@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activemq_demo_test" />
+        <module name="spring_boot_demo" />
+        <module name="spring_data_solr_demo" />
+        <module name="spring_data_solr_demotest" />
+        <module name="springjms_consumer" />
+        <module name="springjms_producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq_demo_test" target="1.8" />
+      <module name="freemarker_demo_test" target="1.8" />
+      <module name="redis_demo_test" target="1.8" />
+      <module name="spring_boot_demo" target="1.8" />
+      <module name="spring_data_solr_demo" target="1.8" />
+      <module name="spring_data_solr_demotest" target="1.8" />
+      <module name="springjms_consumer" target="1.8" />
+      <module name="springjms_producer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

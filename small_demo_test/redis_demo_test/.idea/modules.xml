@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../activemq_demo_test/activemq_demo_test.iml" filepath="$PROJECT_DIR$/../activemq_demo_test/activemq_demo_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../freemarker_demo_test/freemarker_demo_test.iml" filepath="$PROJECT_DIR$/../freemarker_demo_test/freemarker_demo_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis_demo_test.iml" filepath="$PROJECT_DIR$/redis_demo_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring_boot_demo/spring_boot_demo.iml" filepath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring_data_solr_demotest/spring_data_solr_demotest.iml" filepath="$PROJECT_DIR$/../spring_data_solr_demotest/spring_data_solr_demotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springjms_consumer/springjms_consumer.iml" filepath="$PROJECT_DIR$/../springjms_consumer/springjms_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springjms_producer/springjms_producer.iml" filepath="$PROJECT_DIR$/../springjms_producer/springjms_producer.iml" />
+    </modules>
+  </component>
+</project>
